@@ -1,0 +1,11 @@
+{
+  "name": "go-simple-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thisguyknowscode/go-simple-blockchain.git",
+  "author": "Michael Snyder <me@michaelsnyder.me>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "go run cmd/main.go"
+  }
+}
