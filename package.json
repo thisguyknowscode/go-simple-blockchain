@@ -6,6 +6,6 @@
   "author": "Michael Snyder <me@michaelsnyder.me>",
   "license": "MIT",
   "scripts": {
-    "dev": "go run cmd/main.go"
+    "dev": "nodemon --exec go run ./cmd/main.go --signal SIGTERM"
   }
 }

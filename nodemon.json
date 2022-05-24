@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "execMap": {
+    "go": "yarn run dev"
+  }
+}
